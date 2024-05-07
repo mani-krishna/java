@@ -1,0 +1,3 @@
+important points
+//for length calculation in java for integer.
+int length = String.valueOf(number).length();?
